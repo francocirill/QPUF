@@ -18,7 +18,7 @@ Alternatively, you can fork this repository to incorporate the Quantum Physicall
 
 ## Issues
 If you encounter any issues or have questions regarding the code, feel free to open an issue on this repository.
-s
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 This is a project that you can use however you like, as long as you respect the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
