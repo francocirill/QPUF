@@ -8,6 +8,7 @@ Please note that the detailed explanation of the code and its functionality will
 
 ## Citation
 If you plan to use this code for your work, please cite the associated paper.
+```
 @INPROCEEDINGS{10821295,
   author={Cirillo, Franco and Esposito, Christian},
   booktitle={2024 IEEE International Conference on Quantum Computing and Engineering (QCE)}, 
@@ -17,7 +18,9 @@ If you plan to use this code for your work, please cite the associated paper.
   number={},
   pages={1354-1363},
   keywords={Threat modeling;Measurement;Protocols;Memory management;Authentication;Quantum mechanics;Personal digital devices;Physical unclonable function;Hardware;Quantum circuit;Quantum Physical Unclonable Function (QPUF);Authentication;Quantum;Security},
-  doi={10.1109/QCE60285.2024.00161}}
+  doi={10.1109/QCE60285.2024.00161}
+}
+```
 
 ## Usage
 ### Evaluation of IBM Quantum Computers
