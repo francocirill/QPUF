@@ -7,7 +7,17 @@ This repository contains the code to implemente and to evaluate Instability, Ran
 Please note that the detailed explanation of the code and its functionality will be provided in an associated paper that is currently in preparation but not yet published.
 
 ## Citation
-If you plan to use this code for your work, please cite the associated paper once it is published. Kindly check back on this GitHub page for updates regarding the publication status and citation information.
+If you plan to use this code for your work, please cite the associated paper.
+@INPROCEEDINGS{10821295,
+  author={Cirillo, Franco and Esposito, Christian},
+  booktitle={2024 IEEE International Conference on Quantum Computing and Engineering (QCE)}, 
+  title={Practical Evaluation of a Quantum Physical Unclonable Function and Design of an Authentication Scheme}, 
+  year={2024},
+  volume={01},
+  number={},
+  pages={1354-1363},
+  keywords={Threat modeling;Measurement;Protocols;Memory management;Authentication;Quantum mechanics;Personal digital devices;Physical unclonable function;Hardware;Quantum circuit;Quantum Physical Unclonable Function (QPUF);Authentication;Quantum;Security},
+  doi={10.1109/QCE60285.2024.00161}}
 
 ## Usage
 ### Evaluation of IBM Quantum Computers
